@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,music.makifx.com
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,emby.bangumi.ca
+  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
+  - DOMAIN-SUFFIX,aliz.work
+  - DOMAIN-SUFFIX,vfing.de
+  - DOMAIN-SUFFIX,abc.auroramedia.vip
+  - IP-CIDR,192.99.35.111/32
