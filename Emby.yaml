@@ -1,9 +1,18 @@
 payload:
-  - DOMAIN-SUFFIX,music.makifx.com
+  - DOMAIN-SUFFIX,makifx.com
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.bangumi.ca
   - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   - DOMAIN-SUFFIX,aliz.work
   - DOMAIN-SUFFIX,vfing.de
   - DOMAIN-SUFFIX,abc.auroramedia.vip
+  - DOMAIN-SUFFIX,nanflix.net
+  - DOMAIN-SUFFIX,free.28.al
+  - DOMAIN-SUFFIX,clun.top
+  - DOMAIN-SUFFIX,favoritewife.com
+  - DOMAIN-SUFFIX,tanhuatv.set
+  - DOMAIN-SUFFIX,auroramedia.vip
+  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN-SUFFIX,tdck.fun
   - IP-CIDR,192.99.35.111/32
+  
