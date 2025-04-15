@@ -16,5 +16,6 @@ payload:
   - DOMAIN-SUFFIX,tdck.fun
   - DOMAIN-SUFFIX,qdzfreecdn.b-cdn.net
   - DOMAIN-SUFFIX,media.nijigem.by
+  - DOMAIN-SUFFIX,998903.xyz
   - IP-CIDR,192.99.35.111/32
   
