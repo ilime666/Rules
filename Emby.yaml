@@ -20,5 +20,6 @@ payload:
   - DOMAIN-SUFFIX,998903.xyz
   - DOMAIN-SUFFIX,rjf37.com
   - DOMAIN-SUFFIX,meowfly.de
+  - DOMAIN-SUFFIX,feiniu.lol
   - IP-CIDR,192.99.35.111/32
   
