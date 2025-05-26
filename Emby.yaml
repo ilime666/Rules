@@ -22,5 +22,6 @@ payload:
   - DOMAIN-SUFFIX,meowfly.de
   - DOMAIN-SUFFIX,feiniu.lol
   - DOMAIN-SUFFIX,785858.xyz
+  - DOMAIN-SUFFIX,123456789.lol
   - IP-CIDR,192.99.35.111/32
   
