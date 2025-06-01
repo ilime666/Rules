@@ -23,5 +23,7 @@ payload:
   - DOMAIN-SUFFIX,feiniu.lol
   - DOMAIN-SUFFIX,785858.xyz
   - DOMAIN-SUFFIX,123456789.lol
+  - DOMAIN-SUFFIX,staryuki.com
+  - DOMAIN-SUFFIX,liminalnet.com
   - IP-CIDR,192.99.35.111/32
   
