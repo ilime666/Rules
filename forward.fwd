@@ -3,7 +3,7 @@
   "description": "Forward 模块收集",
   "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
-   	{
+    {
       "id": "zhuijurili",
       "title": "追剧日历(今/明日播出、各项榜单、今日推荐)",
       "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
