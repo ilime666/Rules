@@ -27,5 +27,6 @@ payload:
   - DOMAIN-SUFFIX,liminalnet.com
   - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,cn2gias.uk
+  - DOMAIN-SUFFIX,aiyinyue.com
   - IP-CIDR,192.99.35.111/32
   
