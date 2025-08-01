@@ -28,5 +28,7 @@ payload:
   - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,cn2gias.uk
   - DOMAIN-SUFFIX,aiyinyue.com
+  - DOMAIN-SUFFIX,shrekmedia.org
+  - DOMAIN-SUFFIX,mjji.de
   - IP-CIDR,192.99.35.111/32
   
