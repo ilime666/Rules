@@ -30,5 +30,7 @@ payload:
   - DOMAIN-SUFFIX,aiyinyue.com
   - DOMAIN-SUFFIX,shrekmedia.org
   - DOMAIN-SUFFIX,mjji.de
+  - DOMAIN-SUFFIX,mebimmer.de
   - IP-CIDR,192.99.35.111/32
   
+
