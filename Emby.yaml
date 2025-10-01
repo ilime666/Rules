@@ -31,6 +31,9 @@ payload:
   - DOMAIN-SUFFIX,shrekmedia.org
   - DOMAIN-SUFFIX,mjji.de
   - DOMAIN-SUFFIX,mebimmer.de
+  - DOMAIN-SUFFIX,lyrebirdemby.com
+  - DOMAIN-SUFFIX,hohai.eu.org
   - IP-CIDR,192.99.35.111/32
   
+
 
