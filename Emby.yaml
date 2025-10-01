@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,lyrebirdemby.com
   - DOMAIN-SUFFIX,hohai.eu.org
   - IP-CIDR,192.99.35.111/32
-  
+  - DOMAIN-SUFFIX,jingzhe.pro
+
 
 
