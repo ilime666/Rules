@@ -1,4 +1,4 @@
-payload:
+#payload:
   - DOMAIN-SUFFIX,makifx.com
   - DOMAIN-SUFFIX,mefun.org
   - DOMAIN-SUFFIX,emby.wtf
